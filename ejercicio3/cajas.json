@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6422b4de55e508a6d07531f8"
+  },
+  "Contenido": "Libretas",
+  "Valor": 5000,
+  "Almacen": {
+    "$oid": "6422b44955e508a6d07531f7"
+  }
+},{
+  "_id": {
+    "$oid": "6422b4de55e508a6d07531f9"
+  },
+  "Contenido": "Bolígrafos",
+  "Valor": 1000,
+  "Almacen": {
+    "$oid": "6422b44955e508a6d07531f7"
+  }
+}]
