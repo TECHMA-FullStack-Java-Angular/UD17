@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6422b99f55e508a6d0753200"
+  },
+  "Nombre": "tornillo"
+},{
+  "_id": {
+    "$oid": "6422b99f55e508a6d0753201"
+  },
+  "Nombre": "tuerca"
+}]
