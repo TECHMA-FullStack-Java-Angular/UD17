@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6422b7a855e508a6d07531fe"
+  },
+  "DNI": "00000000A",
+  "NomApels": "Jordi Creus",
+  "Despacho": {
+    "$oid": "6422b70c55e508a6d07531fc"
+  }
+},{
+  "_id": {
+    "$oid": "6422b81655e508a6d07531ff"
+  },
+  "DNI": "22222222B",
+  "NomApels": "Paula Sousa",
+  "DNIJefe": {
+    "$oid": "6422b7a855e508a6d07531fe"
+  },
+  "Despacho": {
+    "$oid": "6422b70c55e508a6d07531fd"
+  }
+}]
