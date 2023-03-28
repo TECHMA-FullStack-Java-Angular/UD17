@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "6422b63e55e508a6d07531fb"
+  },
+  "Nombre": "Sala 1",
+  "Pelicula": {
+    "$oid": "6422b5fb55e508a6d07531fa"
+  }
+}]
