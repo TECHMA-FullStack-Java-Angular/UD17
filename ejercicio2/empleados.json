@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "6422ad3d55e508a6d07531f4"
+  },
+  "DNI": 333333333,
+  "Nombre": "Paula",
+  "Apellidos": "Sousa",
+  "Departamento": {
+    "$oid": "6422aa4555e508a6d07531f3"
+  }
+},{
+  "_id": {
+    "$oid": "6422adcc55e508a6d07531f5"
+  },
+  "DNI": 222222222,
+  "Nombre": "Manuel",
+  "Apellidos": "Campos Ruiz",
+  "Departamento": {
+    "$oid": "6422aa4555e508a6d07531f1"
+  }
+},{
+  "_id": {
+    "$oid": "6422aded55e508a6d07531f6"
+  },
+  "DNI": 11111111,
+  "Nombre": "Josep",
+  "Apellidos": "Martinez Cruz",
+  "Departamento": {
+    "$oid": "6422aa4555e508a6d07531f2"
+  }
+}]
