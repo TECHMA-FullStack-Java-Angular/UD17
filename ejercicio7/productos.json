@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6422bcbc55e508a6d0753205"
+  },
+  "Nombre": "Shampoo",
+  "Precio": 4.99
+},{
+  "_id": {
+    "$oid": "6422bcbc55e508a6d0753206"
+  },
+  "Nombre": "Acondicionador",
+  "Precio": 3.99
+}]
