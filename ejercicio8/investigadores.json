@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6422bfb155e508a6d075320b"
+  },
+  "DNI": "00000000A",
+  "NomApels": "Maria Cristina Saez",
+  "Facultad": {
+    "$oid": "6422bf4d55e508a6d0753209"
+  }
+},{
+  "_id": {
+    "$oid": "6422bff755e508a6d075320c"
+  },
+  "DNI": "11111111B",
+  "NomApels": "Laura Llauradó",
+  "Facultado": {
+    "$oid": "6422bf4d55e508a6d075320a"
+  }
+}]

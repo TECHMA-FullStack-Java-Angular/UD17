@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "6422c08e55e508a6d075320d"
+  },
+  "NumSerie": "ABCD",
+  "Nombre": "Equipo 1",
+  "Facultad": {
+    "$oid": "6422bf4d55e508a6d0753209"
+  }
+}]

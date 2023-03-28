@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6422bf4d55e508a6d0753209"
+  },
+  "Nombre": "Facultad de Salud Pública"
+},{
+  "_id": {
+    "$oid": "6422bf4d55e508a6d075320a"
+  },
+  "Nombre": "Facultad de Economia"
+}]
