@@ -1,8 +1,8 @@
 # UD17. MongoDB
 Realizar los seguientes ejercicios con MongoDB:
 
-<img width="770" alt="image" src="https://user-images.githubusercontent.com/110301198/228218384-16f34635-7a56-4591-a46f-f3c14bb7efe8.png">
-<img width="762" alt="image" src="https://user-images.githubusercontent.com/110301198/228218622-0bae5bf1-c2f0-4ee6-add0-0517beabd784.png">
+<img width="371" alt="image" src="https://user-images.githubusercontent.com/110301198/228219292-229dfa8a-39e3-4050-81e9-6d07951aff93.png">
+<img width="374" alt="image" src="https://user-images.githubusercontent.com/110301198/228219350-a44f5223-c2e7-4e13-9fcd-214e07346398.png">
 <img width="378" alt="image" src="https://user-images.githubusercontent.com/110301198/228218758-2971df46-e7da-47db-a7fa-188d6e120e7f.png">
 <img width="367" alt="image" src="https://user-images.githubusercontent.com/110301198/228218817-abefb353-c6d2-42eb-893a-9410f0db9065.png">
 <img width="370" alt="image" src="https://user-images.githubusercontent.com/110301198/228218866-48b44a66-f143-425a-a589-5cc8abd0d0f5.png">
